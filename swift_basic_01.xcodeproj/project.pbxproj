@@ -1,0 +1,75 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2060C230264EA1EF00CC2EDF /* playground_comment.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = playground_comment.playground; path = ../playground_comment.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2060C2312651350300CC2EDF /* playground_ui_label.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = playground_ui_label.playground; path = ../playground_ui_label.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2060C229264EA10700CC2EDF = {
+			isa = PBXGroup;
+			children = (
+				2060C2312651350300CC2EDF /* playground_ui_label.playground */,
+				2060C230264EA1EF00CC2EDF /* playground_comment.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2060C22A264EA10700CC2EDF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 2060C22D264EA10700CC2EDF /* Build configuration list for PBXProject "swift_basic_01" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2060C229264EA10700CC2EDF;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2060C22E264EA10700CC2EDF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		2060C22F264EA10700CC2EDF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2060C22D264EA10700CC2EDF /* Build configuration list for PBXProject "swift_basic_01" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2060C22E264EA10700CC2EDF /* Debug */,
+				2060C22F264EA10700CC2EDF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2060C22A264EA10700CC2EDF /* Project object */;
+}
