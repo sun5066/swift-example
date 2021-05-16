@@ -3,13 +3,20 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 54;
 	objects = {
+
+/* Begin PBXFileReference section */
+		2060C230264EA1EF00CC2EDF /* playground_comment.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = playground_comment.playground; path = ../playground_comment.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2060C2312651350300CC2EDF /* playground_ui_label.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = playground_ui_label.playground; path = ../playground_ui_label.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		2060C229264EA10700CC2EDF = {
 			isa = PBXGroup;
 			children = (
+				2060C2312651350300CC2EDF /* playground_ui_label.playground */,
+				2060C230264EA1EF00CC2EDF /* playground_comment.playground */,
 			);
 			sourceTree = "<group>";
 		};
@@ -22,7 +29,7 @@
 				LastUpgradeCheck = 1250;
 			};
 			buildConfigurationList = 2060C22D264EA10700CC2EDF /* Build configuration list for PBXProject "swift_basic_01" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
